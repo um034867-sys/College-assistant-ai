@@ -1,0 +1,10 @@
+langchain
+ipykernel
+langchain_community
+pypdf
+langchain-text-splitters
+fastembed
+onnxruntime-directml
+faiss-cpu
+streamlit
+langchain-ollama

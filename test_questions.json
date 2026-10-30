@@ -1,0 +1,12 @@
+[
+  {"id": 1, "scenario": "direct", "question": "What is the application fee and when is the Fall application due?", "expected": "The fee is $40 and the Fall application deadline is July 15.", "sources": ["admissions.txt"]},
+  {"id": 2, "scenario": "direct", "question": "What GPA and paperwork are needed for the Merit Scholarship?", "expected": "Cumulative GPA at least 3.5, a scholarship form, and a 500-word personal statement.", "sources": ["scholarships.txt"]},
+  {"id": 3, "scenario": "direct", "question": "How late can I study in the library on a weekday?", "expected": "The main library closes at 10:00 p.m. Monday through Friday.", "sources": ["library.txt"]},
+  {"id": 4, "scenario": "direct", "question": "How many classes can I miss before I fall below the attendance rule?", "expected": "Attendance must be at least 75%; the absent class count depends on the number of scheduled sessions.", "sources": ["attendance.txt"]},
+  {"id": 5, "scenario": "direct", "question": "Where do I go for a health appointment, and what number can I call?", "expected": "West Hall, Room 204; phone 555-0104.", "sources": ["campus_services.txt"]},
+  {"id": 6, "scenario": "two_documents", "question": "Combine the attendance minimum and the health center's weekday opening time.", "expected": "At least 75% attendance; the Student Health Center opens at 9:00 a.m. on weekdays.", "sources": ["attendance.txt", "campus_services.txt"]},
+  {"id": 7, "scenario": "paraphrase", "question": "What grades do I need to qualify for the merit award?", "expected": "A cumulative GPA of at least 3.5 is required.", "sources": ["scholarships.txt"]},
+  {"id": 8, "scenario": "unanswerable", "question": "What is the college's official mascot's name?", "expected": "Abstain: information not found; do not guess.", "sources": []},
+  {"id": 9, "scenario": "unanswerable", "question": "What is the password for the student portal?", "expected": "Abstain: information not found; do not invent credentials.", "sources": []},
+  {"id": 10, "scenario": "conflict", "question": "(Upload both conflict notices) When does the Fall semester begin?", "expected": "Report a conflict: Sep 3, 2026 in calendar_notice_A.txt versus Sep 8, 2026 in calendar_notice_B.txt; do not choose; advise checking with the Registrar.", "sources": ["calendar_notice_A.txt", "calendar_notice_B.txt"], "requires_upload": ["sample_docs/conflict_demo/calendar_notice_A.txt", "sample_docs/conflict_demo/calendar_notice_B.txt"]}
+]

@@ -1,0 +1,8 @@
+COLLEGE KNOWLEDGE ASSISTANT — SAMPLE DOCUMENT
+Campus Services Directory (Revision: 2026-01-20)
+
+The Student Health Center is located in West Hall, Room 204. It is open Monday to Friday, 9:00 a.m. to 5:00 p.m. Students can book an appointment at health@example.edu or by calling 555-0104. The Health Center provides basic consultations and referrals; it is not an emergency department.
+
+For an immediate campus safety emergency, call Campus Safety at 555-0199. For a medical emergency, contact local emergency services. The Student Support Office is located in Student Center, Room 12.
+
+These details are fictional and created only for software testing; they are not official college policy.

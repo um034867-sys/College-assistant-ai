@@ -1,0 +1,8 @@
+COLLEGE KNOWLEDGE ASSISTANT — SAMPLE DOCUMENT
+Library Services Guide (Revision: 2026-01-10)
+
+The main library is open Monday to Friday from 8:00 a.m. to 10:00 p.m. On Saturdays it is open from 10:00 a.m. to 6:00 p.m. The library is closed on Sundays and public holidays. During examination week, hours may be extended; announcements are posted at the library entrance and on the student portal.
+
+Undergraduate students may borrow up to five books for 21 days. Renewals are allowed once if no other student has placed a hold. A student ID is required to borrow materials.
+
+These details are fictional and created only for software testing; they are not official college policy.

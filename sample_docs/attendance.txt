@@ -1,0 +1,8 @@
+COLLEGE KNOWLEDGE ASSISTANT — SAMPLE DOCUMENT
+Academic Regulations: Attendance and Standing (Revision: 2026-01-05)
+
+Students are expected to attend at least 75 percent of scheduled sessions in each course. A student who falls below this minimum may be prevented from sitting the final examination unless an approved exception is granted by the Dean. Students should contact their course instructor as soon as possible when illness or another serious circumstance affects attendance.
+
+Good academic standing requires a cumulative GPA of 2.0 or higher. Students below 2.0 are placed on academic warning and should meet an academic advisor.
+
+These details are fictional and created only for software testing; they are not official college policy.

@@ -1,0 +1,8 @@
+COLLEGE KNOWLEDGE ASSISTANT — SAMPLE DOCUMENT
+Scholarship Handbook (Revision: 2026-02-01)
+
+The Merit Scholarship is available to full-time undergraduate students with a cumulative GPA of at least 3.5. Students must submit the scholarship form and a 500-word personal statement by May 1. Recipients receive $2,000 per academic year, subject to annual renewal. The Financial Aid Office reviews applications and announces decisions by June 10.
+
+The Need-Based Grant requires a completed financial aid application. Students may apply for both the Merit Scholarship and the Need-Based Grant.
+
+These details are fictional and created only for software testing; they are not official college policy.

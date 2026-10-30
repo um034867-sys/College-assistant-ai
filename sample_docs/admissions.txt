@@ -1,0 +1,6 @@
+COLLEGE KNOWLEDGE ASSISTANT — SAMPLE DOCUMENT
+Admissions Guide (Revision: 2026-01-15)
+
+Applications for the Fall semester must be submitted by July 15. Applicants submit the online application, high-school transcripts, and a non-refundable $40 application fee. Decisions are normally sent by email within four weeks after a complete application is received. International applicants must also provide proof of English proficiency. The Admissions Office is in North Hall, Room 110, and can be reached at admissions@example.edu.
+
+These details are fictional and created only for software testing; they are not official college policy.
